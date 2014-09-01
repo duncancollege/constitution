@@ -1,4 +1,4 @@
-constitution
+Constitution
 ============
 
 Duncan College constitution
